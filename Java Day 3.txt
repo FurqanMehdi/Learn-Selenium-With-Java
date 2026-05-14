@@ -1,0 +1,17 @@
+-------------------
+    OPERATORS
+-------------------
+Operator is a symbol which perform operation
+
+TYPES OF OPERATORS
+
+1) Arithmetic: +, -, *, /, %
+2) Relational/Comparison Operators: >, <, ==, >=, <=, !=  (Use only in two variable of any data type)
+3) Logical: &&, ||, !   (use only for boolean data type)
+4) Increment & Decrement: ++, --
+5) Conditional/Ternary: ?, :
+6) Assignment: =, +=, -=, *=, /=, %=   
+
+Uniary Operators: we can use only single variable (++, --, +=, -=, *=, /=, %=, !)
+Binary Operators: we can use atleast 2 variable
+Ternary Operators: 3 vairables required atleast 

@@ -1,0 +1,37 @@
+f LOOPING / ITERATIVE STATEMENT: Help to reduce the code and avoid duplication
+
+1)While
+2)Do While
+3)For
+4)For Each
+
+
+-------------
+  WHILE
+-------------
+Initilization
+while(condition)
+{
+statement
+inc/dec
+}
+
+
+-----------
+DO WHILE
+-----------
+DO
+{
+Statemenr;
+inc/dec
+}while(condition);
+
+
+----------
+   FOR
+----------
+
+for(initization, condition, inc/dec)
+{
+Statement
+}

@@ -1,0 +1,20 @@
+---------------------------
+WebDriver Methods
+---------------------------
+1) Get Methods
+- driver.get("url)  //Website url
+- System.out.println(driver.getTitle()); //Return the Page Title. It store in string of print it.
+- driver.getCurrentUrl()
+- driver.getPageSource();
+- driver.getWindowHandle() //Return Single Browser window ID
+- driver.getWindowHandles() //Return Multiple Browser windows ID's
+
+- Close()  // close one window at a time
+- Quit()   // close all windows at a time
+- For Specific window //get by window ids
+
+2) Conditional Methods  // Access these commands through WebElements
+- isDisplayed()
+- isEnabled()
+- isSelected()
+

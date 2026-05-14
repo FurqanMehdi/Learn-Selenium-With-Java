@@ -1,0 +1,6 @@
+---------------------------
+   JAVA OOP CONSTRUCTOR
+---------------------------
+
+Class is a collection of variable and methods
+->Two kind of Methods: 1)Built in 2) User Defined

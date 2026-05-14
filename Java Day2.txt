@@ -1,0 +1,42 @@
+-------------------------
+VARIABLES AND DATA TYPES
+-------------------------
+
+Variable is a container to store a data
+Data Type: Define what type of data will store in variable
+
+3 TYPE OF APPROACHES TO DECLEAR DATATYPE
+
+FIRST APPROCHES
+int a = 100;
+int b = 200;
+
+SECOND APPROCHES
+int a,b;
+a = 100;
+b = 200;
+
+THIRD APPROCHES
+int a=100, b=200;
+
+Syso(a+" "+b);
+
+
+----------
+DATA TYPES
+----------
+
+1) Premitve: 
+Byte, short, int, long ----number without decimal
+float, double ------- decimal
+char
+boolean
+
+2) Non-Premitve/derived/collections
+String
+Arraylist
+HashMap
+and many more
+
+
+

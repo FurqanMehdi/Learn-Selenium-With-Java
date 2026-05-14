@@ -1,0 +1,9 @@
+Day 1
+
+3 Component in Java
+
+i:   JDK: Java Development Kit
+ii:  JRE: Java Runtime Enivronment
+iii: JVM: Java Virtual Machine (Convert Engish languages into byte code)
+
+
