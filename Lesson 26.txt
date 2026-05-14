@@ -14,7 +14,7 @@ WebDriver Methods
 - For Specific window //get by window ids
 
 2) Conditional Methods  // Access these commands through WebElements
-- isDisplayed()
+- isDisplayed() //true or false
 - isEnabled()
 - isSelected()
 
