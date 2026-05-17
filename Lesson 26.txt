@@ -9,12 +9,12 @@ WebDriver Methods
 - driver.getWindowHandle() //Return Single Browser window ID
 - driver.getWindowHandles() //Return Multiple Browser windows ID's
 
+2) Conditional Methods  // Access these commands through WebElements
+- isDisplayed() //true or false
+- isEnabled() // true or false
+- isSelected()
+
+3) Browser Methods
 - Close()  // close one window at a time
 - Quit()   // close all windows at a time
 - For Specific window //get by window ids
-
-2) Conditional Methods  // Access these commands through WebElements
-- isDisplayed() //true or false
-- isEnabled()
-- isSelected()
-

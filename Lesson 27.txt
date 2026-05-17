@@ -1,0 +1,12 @@
+-----------------
+Wait Commands
+-----------------
+-Synchronization: The component is not loaded
+
+1) Thread.sleep(): 
+. if the time is not sufficent then you will get exception
+. it will wait for maximum time out. This will rediuce the performance script
+. multiple times we need to write
+
+2) Implicit Wait:
+3) Explicit Wait:  
