@@ -9,4 +9,13 @@ Wait Commands
 . multiple times we need to write
 
 2) Implicit Wait:
+. driver().manage().timeouts().implictlyWait(Duration.ofSeconds(5);
+ 
+Advantage: 
+. Declear only one time
+. After finding it move on wait till end
+
+DisAdvantage:
+. If the time is not sufficient then you will get exception
+
 3) Explicit Wait:  
